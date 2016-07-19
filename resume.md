@@ -1,6 +1,9 @@
 # 简历
 ## 联系方式
-- 手机/微信: **13426210330**    Email: xiaodaguan@gmail.com    QQ: 506703298
+
+电话/微信|Email|QQ
+---|---|---
+**13426210330**  | xiaodaguan@gmail.com  | 506703298
 
 
 ## 个人信息
@@ -8,8 +11,8 @@
 - 硕士/北京信息科技大学计算机应用技术/句法分析，本科/北京科技大学计算机科学与技术
 - 工作年限: 2年
 - Blog: http://guanxiaoda.cn:2368/, Github: https://github.com/xiaodaguan
-- 期望职位: **爬虫工程师**, NLP工程师
-- 期望薪资: 税前工资20k*15
+- 期望职位: **爬虫工程师** / NLP工程师
+- 期望薪资: 20k*15
 - 目标城市: **北京**
 
 ## 工作/项目经历
@@ -41,17 +44,16 @@
 		* 完成论文并发表
 
 ## 技能
-- 编程语言: Java, Python
-- 爬虫框架: Scrapy, WebCollector
-- 爬虫技术: CSS, Xpath, proxy, selenium
-- 数据库相关: Mysql, Oracle, Mongodb
-- 数据挖掘/NLP: SVM, CRF, HMM, 最大熵等
+- Java, Python
+- Scrapy, WebCollector
+- CSS, Xpath, proxy, selenium
+- Mysql, Oracle, Mongodb
 
 ## 作品
 #### 开源项目：
 - 微信公众号文章(阅读、点赞数)爬虫：
 	- https://github.com/xiaodaguan/sogou_weixin
-- 主题爬虫(覆盖新闻、博客、微博、微信等)：
+- 主题爬虫：
 	- https://github.com/xiaodaguan/WebCollectorDemo
 	- https://github.com/xiaodaguan/crawler_client_v0.95  
 
@@ -64,7 +66,7 @@
 
 
 ## 致谢：
-> 感谢您的阅读，期待能与您共事
+**感谢您的阅读，期待能与您共事**
 
 
 
